@@ -1,0 +1,50 @@
+.container {
+    text-align: center;
+    align-items: center;
+}
+
+.container p {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0px 0px 4px #aaa2a2;
+}
+
+label {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0px 0px 4px #aaa2a2;
+}
+
+#nota1  {
+    background-color: rgb(218, 157, 157);
+    
+}
+
+#nota2 {
+    background-color: rgb(218, 157, 157);
+}
+
+#nota3{
+    background-color: rgb(218, 157, 157);
+}
+
+button {
+    background-color: rgb(124, 7, 7);
+    color: white;
+}
+
+.exercicios {
+    display: flex;
+    flex-direction: column;
+}
+
+.exercicios button{
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.botao {
+    cursor: pointer;
+}
